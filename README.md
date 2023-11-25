@@ -4,7 +4,7 @@
 
 # 环境安装
 
-- Go环境安装 https://zhuanlan.zhihu.com/p/611141762)https://zhuanlan.zhihu.com/p/611141762
+- Go环境安装 https://zhuanlan.zhihu.com/p/611141762
 - 使用CMD或终端查看go是否安装成功 `go version`
 - 有的电脑可能没有Git，还需要安装Git环境，https://zhuanlan.zhihu.com/p/242540359
 - 使用CMD或终端下载源代码 `git clone https://github.com/polin-x/evm-mint.git`
