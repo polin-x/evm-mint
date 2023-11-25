@@ -9,6 +9,7 @@
 - 有的电脑可能没有Git，还需要安装Git环境 https://zhuanlan.zhihu.com/p/242540359
 - 使用CMD或终端下载源代码 `git clone https://github.com/polin-x/evm-mint.git`
 - `cd evm-min`
+- `go mod init evm`
 - `go mod tidy`
 - 替换上私钥和链信息 （https://chainlist.org/）如RPC地址、链ID、需要mint的数据（不用十六进制）
 - `go run mint.go`
