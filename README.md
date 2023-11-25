@@ -1,6 +1,6 @@
 # evm-mint
 
-可以mint所有EVM链
+可以mint所有EVM链,简单来说最近出的都可以mint
 
 # 环境安装
 
